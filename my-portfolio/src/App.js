@@ -1,5 +1,6 @@
 import Provider from "./context/provider";
 import HomePage from "./pages/homepage";
+import './App.css'
 
 function App() {
   return (
