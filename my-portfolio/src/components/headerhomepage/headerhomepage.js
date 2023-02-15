@@ -5,8 +5,8 @@ function HeaderHomePage() {
         <div className="StyleHeaderHomePage">
             <h1>Portfólio Web</h1>
             <ul>
-                <li>Projetos</li>
-                <li>Conhecimentos</li>
+                <li>Linkedin</li>
+                <li>Github</li>
             </ul>
         </div>
     )
