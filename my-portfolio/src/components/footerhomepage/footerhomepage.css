@@ -1,0 +1,26 @@
+.DivFatherFooterHomePage {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    border: 1px solid black;
+    height: 150px;
+    background-color: rgb(213, 211, 211);
+}
+
+.DivIconsContactsHeaderHomePage {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 400px;
+}
+
+.DivIconsContactsHeaderHomePage div {
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.DivIconsContactsHeaderHomePage div img {
+    height: 40px;
+    width: 60px;
+}
