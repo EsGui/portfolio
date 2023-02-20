@@ -9,9 +9,9 @@ function AboutMe() {
             <div className="DivAboutMe">
                 <h3>Sobre mim</h3>
             
-                <p>Meu nome é Guilherme, tenho 24 anos e sou formado em desenvolvimento web fullstack na trybe.</p>
-                <p>Eu tenho conhecimentos sobre front end e back end. Eu quero me desenvolver na área full stack</p>
-                <p>eu não tenho experiência de mercado ainda mas tenho muita vontade de aprender</p>
+                <p>Meu nome é Guilherme, tenho 24 anos e sou um desenvolvedor full stack junior formado na trybe</p>
+                <p>e atualmente eu consigo criar o front end, back end e o banco de dados alem de fazer as conexões</p>
+                <p>entre eles</p>
             </div>
         </div>
     )
