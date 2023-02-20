@@ -6,6 +6,7 @@ function Stacks() {
         <>
             <div className="DivTitleTechnology">
                 <h1>Conhecimentos</h1>
+                <hr/>
             </div>
             <div className="DivFatherStacks">
                 {

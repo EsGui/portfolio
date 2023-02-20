@@ -19,5 +19,17 @@
 .DivTitleTechnology {
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column;
     margin-bottom: 50px;
+}
+
+hr {
+    border-color:#aaa;
+    box-sizing:border-box;
+    width:30%;
+}
+
+.DivTitleTechnology h1 {
+    margin-bottom: 20px;
 }
