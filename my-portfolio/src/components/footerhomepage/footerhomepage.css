@@ -3,10 +3,14 @@
     align-items: center;
     justify-content: space-evenly;
     flex-direction: column;
-    border: 1px solid black;
     height: 150px;
-    background-color: rgb(213, 211, 211);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    border: 1px solid black;
 }
+
 
 .DivIconsContactsHeaderHomePage {
     display: flex;
