@@ -6,7 +6,7 @@ function BannerHomePage() {
         <div className="DivFatherBannerHomePage">
             <img src={ myGravatar } alt="Meu Gravatar" />
             <h1>Guilherme Azevedo</h1>
-            <h3>Desenvolvedor Web Full Stack</h3>
+            <h3>Desenvolvedor Web Full Stack Júnior</h3>
         </div>
     )
 }
