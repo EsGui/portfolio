@@ -2,6 +2,8 @@ import AboutMe from "../components/aboutme/aboutme"
 import BannerHomePage from "../components/bannerhomepage/bannerhomepage"
 import FooterHomePage from "../components/footerhomepage/footerhomepage"
 import HeaderHomePage from "../components/headerhomepage/headerhomepage"
+import Stacks from "../components/projects/stacks"
+
 
 function HomePage() {
     return (
@@ -9,6 +11,7 @@ function HomePage() {
             <HeaderHomePage/>
             <BannerHomePage/>
             <AboutMe />
+            <Stacks />
             <FooterHomePage/>
         </div>
     )

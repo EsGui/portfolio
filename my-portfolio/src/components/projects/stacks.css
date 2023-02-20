@@ -1,0 +1,23 @@
+.DivFatherStacks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.DivFatherStacks div {
+    margin-right: 20px;
+    
+}
+
+.DivFatherStacks img {
+    width: 200px;
+    height: 217px;
+}
+
+.DivTitleTechnology {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
