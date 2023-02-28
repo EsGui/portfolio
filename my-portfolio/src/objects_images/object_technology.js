@@ -5,6 +5,8 @@ import React from '../images/technology/react.png';
 import Node from '../images/technology/nodejs.png';
 import Jest from '../images/technology/jest.png';
 import TestingLibrary from '../images/technology/testing-library.jpeg';
+import Python from '../images/technology/python.jpg'
+import Sequelize from '../images/technology/sequelize.png'
 
 const objectTechnology = [
     {
@@ -34,6 +36,14 @@ const objectTechnology = [
     {
         name: "Testing Library",
         image: TestingLibrary,
+    },
+    {
+        name: "Python",
+        image: Python,
+    },
+    {
+        name: "Sequelize",
+        image: Sequelize
     },
 ];
 

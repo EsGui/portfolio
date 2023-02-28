@@ -3,9 +3,9 @@ import './aboutme.css'
 function AboutMe() {
     return (
         <div className="DivFatherAboutMe">
-            <div className="DivImageMe">
+            {/* <div className="DivImageMe">
                 <p>Minha foto</p>
-            </div>
+            </div> */}
             <div className="DivAboutMe">
                 <h3>Sobre mim</h3>
             

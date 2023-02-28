@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: space-evenly;
     height: 70px;
+    background-color: rgb(47, 46, 46);
 }
 
 .StyleHeaderHomePage ul li {
@@ -11,7 +12,7 @@
     display: inline;
     margin-left: 20px;
     padding: 5px;
-    color: blue;
+    color: white;
     cursor: pointer;
 }
 
