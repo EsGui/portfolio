@@ -9,7 +9,7 @@ function Stacks() {
                 <hr/>
             </div>
             <div className="DivFatherStacks">
-                {
+                {/* {
                     objectTechnology && objectTechnology.map(({
                         name,
                         image
@@ -18,7 +18,16 @@ function Stacks() {
                             <img src={ image } alt={ name } />
                         </div>
                     ))
-                }
+                } */}
+                <ul>
+                    <li>ReactJs</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JS</li>
+                    <li>Testing library</li>
+                    <li>Jest</li>
+                    <li>Python</li>
+                </ul>
             </div>
         </>
     )

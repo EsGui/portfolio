@@ -12,7 +12,7 @@ function HomePage() {
             <HeaderHomePage/>
             <BannerHomePage/>
             {/* <AboutMe /> */}
-            <Stacks />
+            {/* <Stacks /> */}
             <Projects />
             <FooterHomePage/>
         </div>
