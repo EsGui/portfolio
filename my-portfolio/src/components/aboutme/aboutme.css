@@ -1,0 +1,18 @@
+.DivFatherAboutMe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(47, 46, 46);
+}
+
+.DivAboutMe {
+    border: 1px solid black;
+}
+
+.DivImageMe {
+    border: 1px solid black;
+    height: 200px;
+    width: 217px;
+    margin-right: 20px
+}

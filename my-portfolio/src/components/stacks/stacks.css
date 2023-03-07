@@ -1,0 +1,37 @@
+.DivFatherStacks {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    background-color: rgb(30, 30, 30);
+}
+
+.DivFatherStacks div {
+    margin-right: 20px;
+}
+
+.DivFatherStacks img {
+    width: 200px;
+    height: 217px;
+}
+
+.DivTitleTechnology {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(30, 30, 30);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr {
+    border-color:#aaa;
+    box-sizing:border-box;
+    width:30%;
+}
+
+.DivTitleTechnology h1 {
+    margin-bottom: 20px;
+}
